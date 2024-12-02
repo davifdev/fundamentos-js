@@ -5,4 +5,11 @@ const s1 = "Davi"; // string
 const s2 = "Fernandes"; // string
 
 const verdadeiro = true; // boolean
-const falso = falso; // boolean
+const falso = false; // boolean
+
+const nulo = null; // null
+const nao_definido = undefined; // undefined
+
+// Alterando valores 
+let nome = "Roberto";
+nome = "Francisco";
