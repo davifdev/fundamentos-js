@@ -22,7 +22,13 @@ c *= 10;
 c /= 10;
 c %= 10;
 
+// Operadores de Comparação
+const a = 1;
+const b = 2;
 
-
-
-
+console.log(a > b); // false
+console.log(a < b); // true
+console.log(a >= b); // false
+console.log(a <= b); // true
+console.log(a == b); // false
+console.log(a != b); // true
