@@ -2,11 +2,11 @@
 
 ## Operadores aritiméticos
 
-- + : Adição;
-- - : Subtração;
-- * : Multiplicação;
-- / : Divisão;
-- % : Módulo / Resto da Divisão;
+- : + Adição;
+- : - Subtração;
+- : * Multiplicação;
+- : / Divisão;
+- : & Módulo / Resto da Divisão;
 
 ## Operadores de atribuição
 
